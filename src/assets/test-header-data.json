@@ -1,0 +1,103 @@
+{
+  "headers": [
+    {
+      "short": "CLI Plugins",
+      "long": "Installed CLI Plugins"
+    },
+    {
+      "short": "Ess Links",
+      "long": "Essential Links"
+    },
+    {
+      "short": "Eco",
+      "long": "Ecosystem"
+    }
+  ],
+  "links": [
+    {
+      "header": "Installed CLI Plugins",
+      "href": "https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "babel"
+    },
+    {
+      "header": "Installed CLI Plugins",
+      "href": "https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "eslint"
+    },
+    {
+      "header": "Essential Links",
+      "href": "https://vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "Core Docs"
+    },
+    {
+      "header": "Essential Links",
+      "href": "https://forum.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "Forum"
+    },
+    {
+      "header": "Essential Links",
+      "href": "https://chat.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "Community Chat"
+    },
+
+    {
+      "header": "Essential Links",
+      "href": "https://twitter.com/vuejs",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "Twitter"
+    },
+    {
+      "header": "Essential Links",
+      "href": "https://news.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "News"
+    },
+    {
+      "header": "Ecosystem",
+      "href": "https://router.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "vue-router"
+    },
+    {
+      "header": "Ecosystem",
+      "href": "https://vuex.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "vuex"
+    },
+    {
+      "header": "Ecosystem",
+      "href": "https://github.com/vuejs/vue-devtools#vue-devtools",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "vue-devtools"
+    },
+    {
+      "header": "Ecosystem",
+      "href": "https://vue-loader.vuejs.org",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "vue-loader"
+    },
+    {
+      "header": "Ecosystem",
+      "href": "https://github.com/vuejs/awesome-vue",
+      "target": "_blank",
+      "rel": "noopener",
+      "name": "awesome-vue"
+    }
+  ]
+}
